@@ -1,7 +1,1 @@
-shared void integerOrString(Integer|String input) {
-    if (is Integer input) {
-        print("Got the integer ``input``");
-    } else {
-        print("Got the string '``input``'");
-    }
-}
+print("develop policies, procedures, and systems to ensure compliance, and track and monitor laws and regulations; advise on the law and best legal practice, and may also provide training, conduct due diligence, and review contracts.");
